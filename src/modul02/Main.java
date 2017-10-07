@@ -5,6 +5,9 @@ package modul02;
  */
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Ваше имя?");
+        System.out.println("Где вы живете?");
+        System.out.println("Сколько вам лет?");
+        System.out.println("Чем увлекаетесь?");
     }
 }
